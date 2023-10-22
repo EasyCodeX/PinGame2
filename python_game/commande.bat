@@ -1,1 +1,1 @@
-e:/python_game/python.exe e:/pinball-game/main.py
+C:/Gamepython\python_game/python.exe C:/Gamepython\python_game/pinball-game/main.py
