@@ -1,1 +1,0 @@
-e:/python_game/python.exe e:/pinball-game/main.py
